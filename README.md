@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dawit Tsigie</h1>
+<h1 align="center">Hi  I'm Dawit Tsigie</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;TypeScript+Specialist;Flutter+Developer;Building+AI-Integrated+Products" alt="Typing SVG" />
