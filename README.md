@@ -14,7 +14,7 @@
 
 I'm **Dawit Tsigie**, a **Full-Stack Developer** based in Ethiopia. I specialize in building production-grade web applications end-to-end — from the database schema to the final pixel. Currently focused on **TypeScript** and **AI-integrated products**.
 
-- 🎓 Studying **Software Engineering** at Injibara University
+- 🎓 Studying **Software Engineering** at BahirDar University
 - 🌱 Currently exploring **AI integrations** and **advanced Next.js App Router** patterns
 - 📱 Building a **Flutter mobile app** for local businesses in Injibara
 - 📫 Reach me: **dawittsigie3@gmail.com**
