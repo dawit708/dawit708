@@ -1,97 +1,142 @@
-<h1 align="center">Hi   I'm Dawit Tsigie</h1>
+# 👋 Hi, I'm Dawit Tsigie
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;TypeScript+Specialist;Flutter+Developer;Building+AI-Integrated+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+Next.js+%7C+Node.js;Mobile+App+Developer;Building+Real-World+Applications;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dawit708&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dawit708&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dawit708?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Dawit Tsigie**, a **Full-Stack Developer** based in Ethiopia. I specialize in building production-grade web applications end-to-end — from the database schema to the final pixel. Currently focused on **TypeScript** and **AI-integrated products**.
+I'm **Dawit Tsigie**, a Software Engineering student and Full-Stack Developer based in Ethiopia. I enjoy developing modern, responsive, and user-friendly web and mobile applications that solve real-world problems.
 
-- 🎓 Studying **Software Engineering** at BahirDar University
-- 🌱 Currently exploring **AI integrations** and **advanced Next.js App Router** patterns
-- 📱 Building a **Flutter mobile app** for local businesses in Injibara
-- 📫 Reach me: **dawittsigie3@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Skills
-
-> ⚡ **Animated marquee** — hover to pause.
-
-<marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop()" onmouseout="this.start()">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</marquee>
+- 🎓 Software Engineering Student
+- 💻 Interested in Full-Stack Web Development
+- 📱 Exploring Mobile Application Development
+- 🌱 Currently learning AI integrations and advanced Next.js patterns
+- 🚀 Building applications using modern technologies
+- 🤝 Interested in collaboration and open-source projects
+- 📫 Email: **dawittsigie3@gmail.com**
 
 ---
 
-### 🚀 Currently Working On
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,postgres,mongodb,flutter,dart,python,git,github,docker,figma,vscode&perline=10" alt="My Tech Stack" />
+</p>
+
+---
+
+## 🚀 Currently Working On
 
 | Project | Progress | Description |
-|---------|----------|-------------|
-| 📱 **Flutter Mobile App for Injibara Businesses** | 70% | Inventory, customers, and orders management |
-| 🛒 **Next.js E-Commerce Platform** | 45% | Stripe integration, cart, and admin dashboard |
+|---|---:|---|
+| 📱 Flutter Mobile App | 70% | Business inventory, customer, and order management |
+| 🛒 Next.js E-Commerce | 45% | Online shopping, cart, and admin dashboard |
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🤖 AI & Full-Stack
+### 🤖 Full-Stack Applications
 
-| 🔹 Project | Stack | Description |
+<table>
+<tr>
+<td width="50%">
+<h3>🎓 Student Portal</h3>
+<p>Academic management platform with authentication, course enrollment, and grade tracking.</p>
+<p><b>Technologies:</b> Next.js, NestJS, MongoDB, TypeScript</p>
+<a href="https://github.com/dawit708">View My Repositories →</a>
+</td>
+<td width="50%">
+<h3>🛒 E-Commerce Website</h3>
+<p>Online shopping platform with product management, shopping cart, and payment integration.</p>
+<p><b>Technologies:</b> Next.js, TypeScript, Tailwind CSS, Redux Toolkit</p>
+<a href="https://github.com/dawit708">View My Repositories →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🏥 Animal Health Management</h3>
+<p>Veterinary management platform with role-based access, scheduling, and inventory management.</p>
+<p><b>Technologies:</b> MongoDB, Express.js, React, Node.js</p>
+<a href="https://github.com/dawit708">View My Repositories →</a>
+</td>
+<td width="50%">
+<h3>📱 Flutter Business App</h3>
+<p>Mobile application for local businesses to manage inventory, customers, and orders.</p>
+<p><b>Technologies:</b> Flutter, Dart</p>
+<a href="https://github.com/dawit708">View My Repositories →</a>
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend & UI Development
+
+| Project | Technologies | Description |
 |---|---|---|
-| [**Student Portal**](https://github.com/dawit708/student-Enrollement-) | MongoDB · Next.js · Nest.js · TypeScript | Academic portal with JWT auth, course enrollment, and real-time grade tracking |
-| [**E-Commerce Website**](https://github.com/dawit708/Ecommerce-website-in-Next.js-app) | Next.js · TypeScript · Tailwind · Redux | Production digital storefront on Next.js App Router with Redux Toolkit and secure payment integration |
-| [**Animal Health Management**](https://github.com/dawit708/animal-health-website-backend-code) | MongoDB · Express · React · Node.js | MERN veterinary platform with RBAC, real-time scheduling, and an intuitive medical-supplies inventory system |
-
-#### 🖥️ Desktop & Enterprise
-
-*(No public repositories found for these yet. Delete this section if you don't have them live.)*
-
-#### 🎨 Frontend & UI Clones
-
-| 🔹 Project | Stack | Description |
-|---|---|---|
-| [**Apple Website Replica**](https://github.com/dawit708/-re-apple-website) | React · Tailwind · Framer Motion | High-fidelity Apple.com clone focused on advanced CSS Grid and scroll-triggered motion |
-| [**Weather Forecast**](https://github.com/dawit708/Weather-Forecast-in-React.js) | React · OpenWeather API · Tailwind | Geolocation-based dashboard pulling live OpenWeather data with a 7-day predictive UI |
-
-#### 🎮 Fun & Games
-
-| 🔹 Project | Stack | Description |
-|---|---|---|
-| [**Snake Game**](https://github.com/dawit708/LAST-GAME-PROJECT-IN-REACT.JS) | React · Canvas · Game Logic | Classic arcade revival on HTML5 Canvas — 60fps animations, progressive difficulty, local high scores |
+| 🍎 Apple Website Replica | React, Tailwind CSS, Framer Motion | Responsive website replica with modern UI and animations |
+| 🌦️ Weather Forecast | React, OpenWeather API, Tailwind CSS | Weather dashboard with location-based information |
+| 🐍 Snake Game | React, JavaScript, HTML5 Canvas | Interactive browser game with score tracking |
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dawittsigie3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dawit-portfolios.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawit708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dawit's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawit708&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+## 🔥 GitHub Streak Statistics
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=dawit708&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dawit708&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dawit708/dawit708/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dawit708">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dawittsigie3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  <i>Building today. Learning every day. Improving always. 🚀</i>
+</p>
